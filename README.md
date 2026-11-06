@@ -60,11 +60,12 @@ Screenshots of the Excel workbook, PivotTable analysis, and dashboard are includ
 ### Hospital Dashboard
 ![Hospital Dashboard](Hospital_Dashboard_screenshot.jfif)
 
-##   Project Files
+##  Project Files 
 
-- `Hospital_Data_Analysis.xlsx` – Excel workbook containing the analysis and dashboard.
-- `hospital_data.jpeg` – Hospital data screenshot.
-- `Hospital_Dashboard_screenshot.jfif` – Dashboard screenshot.
+- Hospital_Data_Analysis.xlsx – Excel workbook.
+- hospital_data.jpeg – Hospital data screenshot.
+- Hospital_Dashboard_screenshot.jfif – Dashboard screenshot.
+- README.md – Project documentation.
 
 ##   Key Learnings
 
