@@ -54,6 +54,11 @@ The dashboard helps present key information visually, making it easier to explor
 ##   Project Screenshots
 
 Screenshots of the Excel workbook, PivotTable analysis, and dashboard are included in this repository.
+### Hospital Data Analysis
+![Hospital Data](hospital_data.jpeg)
+
+### Hospital Dashboard
+![Hospital Dashboard](Hospital_Dashboard_screenshot.jfif)
 
 ##   Project Files
 
